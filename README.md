@@ -34,6 +34,8 @@
 
 [T3 Tkinter](https://repl.it/@MaksimAnokhin/T3-GUI#main.py)
 
+[T3 Презентация](https://docs.google.com/presentation/d/11AkyY3GVBgK8edSKpWqLhslkFKNqEzOoGm9wKgLcpEc/edit?usp=sharing)
+
 [T3 Дискриминант](https://repl.it/@MaksimAnokhin/T3-Diskriminant#main.py)
 
 [T4 Системы счета](https://repl.it/@MaksimAnokhin/T4-Sistiemy-schieta#main.py)
